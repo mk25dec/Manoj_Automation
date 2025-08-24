@@ -1,12 +1,12 @@
-**AI - RAG solution**
-Store your personal documents as embeddings and use RAG while querying data for semantic search and general Q&A, Analysis based on your documents.
+**AI–RAG Solution**
+Easily store your personal documents as embeddings, and leverage Retrieval-Augmented Generation (RAG) for semantic search, intelligent Q&A, and document-based analysis.
 
-Technology Stack
------------------
-Frontend : Streamlit
+**Technology Stack**
 
-API: FastAPI
+Frontend: Streamlit
 
-BackEnd: ChromaDB Vector Database, RAG Engine
+API Layer: FastAPI
 
-AI Model: llama-7B
+Backend: ChromaDB (Vector Database) + RAG Engine
+
+AI Model: LLaMA-7B
